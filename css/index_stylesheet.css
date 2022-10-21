@@ -1,0 +1,55 @@
+
+#home
+{
+    background: linear-gradient(rgba(255,0,0,0.3) ,rgba(255,0,0,0.3)) , url(../images/events-heavenly-header.jpg) ;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+#home h1
+{
+    font-size: 60px;
+}
+.helvetica
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigation
+{
+    background-color: #414658;
+}
+.upAndDown h3
+{
+    background-color: #E68285;
+    color: white;
+    padding: 5px 0px!important;    
+}
+.upAndDown p
+{
+    background-color: #CCCCCC;
+    padding: 5px 0px!important;
+    display: none;
+}
+#thirdSec
+{
+    background: linear-gradient(rgba(230 ,130 , 133 , 0.5) ,rgba(230 ,130 , 133 , 0.5)), url(../images/invitation-2508607__340.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.icon
+{
+    width: 45px;
+    height: 45px;
+    border : 1px black solid;
+    border-radius: 2px;
+}
+.icon:hover
+{
+    background-color: #D62E33;
+    color: #fff;
+}
+.navigation ul li a:hover
+{
+    color: #D62E33!important;
+}
